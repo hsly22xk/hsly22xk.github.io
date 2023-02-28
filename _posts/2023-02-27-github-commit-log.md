@@ -63,4 +63,4 @@ New pull request 버튼을 눌러주면
 
 클릭 후, Title을 작성해준 후 comment를 작성해준다(comment 작성은 옵션).
 
-Create pull request - merge까지 해주면 끝!
+Create pull request - Merge pull request 까지 해주면 끝!
