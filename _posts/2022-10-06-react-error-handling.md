@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "[React] 리액트 관련 에러 및 핸들링"
-categories: React
+categories: Error-Handling-Logs
 tag: [기록, 리액트, react, 에러핸들링]
 author_profile: false
 ---
