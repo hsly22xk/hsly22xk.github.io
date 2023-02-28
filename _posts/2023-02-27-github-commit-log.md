@@ -3,12 +3,7 @@ layout: single
 title: "깃헙 블로그 커밋 기록 남기기"
 categories: Github-Blog
 tag: [기록, 깃헙블로그, 커밋기록남기기, 잔디심기]
-toc: true
-toc_sticky: true
-toc_label: 목차
 author_profile: false
-sidebar:
-  nav: "docs"
 ---
 
 깃헙 블로그 생성 후 커밋 기록 남기기(잔디심기) 내용 정리글입니다.
