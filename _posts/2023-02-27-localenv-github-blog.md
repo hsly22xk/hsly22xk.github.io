@@ -4,6 +4,10 @@ title: "깃헙 블로그 로컬 개발환경 설정방법 및 에러 핸들링"
 categories: Error-Handling-Logs
 tag: [루비, 로컬 개발환경, 에러핸들링, 기록]
 author_profile: false
+# redirect_from:
+#   - /error
+# sidebar:
+#   nav: "counts"
 ---
 
 깃헙 블로그 로컬 개발환경 설정 방법과 그 과정에서 나온 에러 핸들링을 적어두었습니다.
