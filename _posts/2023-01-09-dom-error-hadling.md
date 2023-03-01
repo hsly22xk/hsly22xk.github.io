@@ -10,7 +10,7 @@ DOM CRUD 실습 중 나온 에러 핸들링.
 
 ## 개요
 
-해당 글을 작성하다 나온 에러 메시지인데, if문 안에 return 대신 continue를 작성했을 때 발생했다.
+해당 [글](https://hsly22xk.github.io/dom/dom/)을 작성하다 나온 에러 메시지인데, if문 안에 return 대신 continue를 작성했을 때 발생했다.
 
 ## 원인
 
