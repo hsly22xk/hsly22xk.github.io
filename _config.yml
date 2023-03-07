@@ -23,7 +23,7 @@ name: "hsly22xk"
 description: "기술 블로그"
 url: # "https://hsly22xk.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: hsly22xk/hsly22xk.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository: # hsly22xk/hsly22xk.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: "/asset/images/profile.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
