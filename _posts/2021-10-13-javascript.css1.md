@@ -6,7 +6,7 @@ tag: [기록, Javascript, JS, 자바스크립트]
 author_profile: false
 ---
 
-CSS의 전반적인 설명.
+CSS의 전반적인 설명(1).
 
 ## 1. CSS
 
@@ -466,14 +466,14 @@ background는 color 이외의 다른 background 옵션들을 지정해 사용할
 ✷ 불투명속성을 넣어주기 위한 2가지 방법
 
 ```css
-background-color: rgba(0, 0, 0, 0.8) // rgb가 모두 0이면 검정색, 투명도 80%;; ; ; ; ; ; ; ; ; ;
+background-color: rgba(0, 0, 0, 0.8) // rgb가 모두 0이면 검정색, 투명도 80%;; ; ; ; ; ; ; ; ; ; ;
 ```
 
 r: red[0~255] g: green[0~255] b: blue[0~255] a: (alpha)[0~1]
 
 ```css
 background-color: #000; // 검정색
-opacity: 0.8 // 투명도 80%;; ; ; ; ; ; ; ; ; ;
+opacity: 0.8 // 투명도 80%;; ; ; ; ; ; ; ; ; ; ;
 ```
 
 opacity값을 통해 투명도 조절이 가능하며, 범위는 [0~1]이다.
