@@ -15,7 +15,7 @@ author_profile: false
 
 ## 방법(1)
 
-![mmistakes github blog link](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#youtube)
+[mmistakes github blog link](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#youtube)
 
 <img width="580" alt="스크린샷 2023-03-11 오전 12 02 49" src="https://user-images.githubusercontent.com/91467260/224349873-43f8666a-4517-4528-a4c9-8d68a40d9dbb.png">
 
