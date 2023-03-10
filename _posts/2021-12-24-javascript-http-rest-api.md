@@ -6,6 +6,8 @@ tag: [기록, Javascript, JS, 자바스크립트]
 author_profile: false
 ---
 
+http와 rest api 정리글.
+
 ## 1. 클라이언트 서버-아키텍쳐(2 Tier Architecture / 2티어 아키텍쳐)
 
 리소스가 존재하는 곳과, 리소스를 사용하는 앱을 분리시킨 것.
