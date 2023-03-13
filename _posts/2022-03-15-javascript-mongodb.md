@@ -4,7 +4,6 @@ title: "D+59 MongoDB(Basic, CRUD), Aggregation Framework"
 categories: Javascript
 tag: [기록, Javascript, JS, 자바스크립트]
 author_profile: false
-published: false
 ---
 
 noSQL(mmongoDB).
@@ -101,7 +100,7 @@ ex) 시장에 빠르게 프로토타입을 출시해야 하는 경우, 버전별
 
 GUI와 CLI로 데이터를 시각화, 분석, 내보내기, 빌드하는 데에 사용할 수 있음. → 아틀라스 사용자는 클러스터를 배포할 수 있으며, 클러스터는 그룹화된 서버에 데이터를 저장한다.
 
-‣ 클러스터: 데이터를 저장하는 서버 그룹.
+‣ [클러스터](https://jiku90.tistory.com/13): 데이터를 저장하는 서버 그룹.
 
 → 여러 대의 컴퓨터를 네트워크를 통해 연결하여 하나의 단일 컴퓨터처럼 동작하도록 제작한 컴퓨터.
 
@@ -374,7 +373,7 @@ db.zips.updateOne({"zip":"12534"}, {"$set":{"pop":6235}})
 
 ✷ 필드를 잘못 작성한 경우, 기존에 없는 이름인 경우라면 잘못 작성된 필드가 그대로 추가된다.
 
-[‣ 배열로 이루어진 필드의 값 업데이트하기(4번 배열 연산자 참고하기)](Advanced CRUD 글 작성하고 링크 넣기)
+[‣ 배열로 이루어진 필드의 값 업데이트하기(4번 배열 연산자 참고하기)](https://hsly22xk.github.io/javascript/javascript-advanced-crud/)
 
 ```
 db.컬렉션이름.updateOne({업데이트 할 도큐먼트를 결정하는 조건},
